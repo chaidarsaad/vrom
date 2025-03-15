@@ -189,7 +189,7 @@
         </p>
     </footer>
 
-    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script>
         const {
             createApp
